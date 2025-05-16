@@ -32,9 +32,9 @@
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40" alt="Excel"/>
   <!-- Minitab -->
-  <img src="https://img.icons8.com/color/48/minitab.png" width="40" height="40" alt="Minitab"/>
+  <img src="https://img.icons8.com/fluency/48/table.png" width="40" height="40" alt="Minitab"/>
   <!-- SPSS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/IBM_SPSS_Logo.png" width="40" height="40" alt="SPSS"/>
+  <img src="https://img.icons8.com/fluency/48/bar-chart.png" width="40" height="40" alt="SPSS"/>
   <!-- Visual Studio -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
   <!-- Photoshop -->
