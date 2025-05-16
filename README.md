@@ -35,11 +35,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saranganuwan&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sara316129&show_icons=true&theme=dracula" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranganuwan&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sara316129&theme=dracula"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranganuwan&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara316129&layout=compact&theme=dracula"/>
 </p>
 
 ---
