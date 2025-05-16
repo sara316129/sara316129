@@ -1,14 +1,48 @@
 <h1 align="center">Hi 👋, I'm Saranga Nuwan Hathurusinghe</h1>
-<h3 align="center">A passionate Data analyst, Machine learning</h3>
+<h3 align="center">aka Sara — A passionate Data Analyst & Creative Coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sara316129&label=Profile%20views&color=0e75b6&style=flat" alt="sara316129" /> </p>
-
-- 🌱 I’m currently learning **Data Visualization , Machine Learning , Data Analyst**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saranga-nuwan-hathurusinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranga nuwan hathurusinghe" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saranganuwan&label=Profile%20views&color=0e75b6&style=flat" alt="saranganuwan" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+- 🎓 Currently studying **BSc (Hons) in Computational Mathematics** at **University of Colombo – Faculty of Science**
+- 🌱 Passionate about **data analysis**, **machine learning**, and **creative digital design**
+- 🧠 Tools I use: **Power BI**, **MS SQL Server**, **MySQL**, **Python**
+- 🎨 Skilled in **Photoshop**, **After Effects**, **Premiere Pro**, **InDesign**
+- 🖌️ I create **icons**, **animations**, and engaging visual content
+- 💬 Ask me about: Data dashboards, predictive models, or design workflows
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saranganuwan&show_icons=true&theme=dracula" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranganuwan&theme=dracula"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranganuwan&layout=compact&theme=dracula"/>
+</p>
+
+---
+
+### 🚀 Fun Fact
+💡 I believe in mixing code and creativity to solve real-world problems beautifully.
