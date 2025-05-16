@@ -7,7 +7,7 @@
 
 - 🎓 BSc (Hons) in Computational Mathematics, University of Colombo – Faculty of Science  
 - 🧠 Passionate about **Data Analysis**, **Machine Learning**, and **Visualizing Data**
-- 🧰 Skilled with **Python**, **SQL**, **Power BI**, **Photoshop**, **Premiere Pro**, and more
+- 🧰 Skilled with **Python**, **SQL**, **Power BI**, and analytical tools for insight extraction
 
 ---
 
@@ -23,16 +23,28 @@
 
 <h3 align="left">🧰 Languages & Tools:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/adobe-indesign--v1.png" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <!-- SQL Server -->
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/>
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40" alt="Excel"/>
+  <!-- Minitab -->
+  <img src="https://img.icons8.com/color/48/minitab.png" width="40" height="40" alt="Minitab"/>
+  <!-- SPSS -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/IBM_SPSS_Logo.png" width="40" height="40" alt="SPSS"/>
+  <!-- Visual Studio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
+  <!-- Photoshop -->
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" width="40" height="40" alt="Photoshop"/>
+  <!-- After Effects -->
+  <img src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" width="40" height="40" alt="After Effects"/>
+  <!-- Premiere Pro -->
+  <img src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" width="40" height="40" alt="Premiere Pro"/>
+  <!-- InDesign -->
+  <img src="https://img.icons8.com/color/48/adobe-indesign--v1.png" width="40" height="40" alt="InDesign"/>
 </p>
 
 ---
