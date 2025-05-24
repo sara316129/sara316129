@@ -23,12 +23,12 @@
 
 <h3 align="left">💻 Programming & Analytics</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40" alt="Excel"/>
-  <img src="https://img.icons8.com/fluency/48/table.png" width="40" height="40" alt="Minitab"/>
-  <img src="https://img.icons8.com/fluency/48/bar-chart.png" width="40" height="40" alt="SPSS"/>
+  <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Programing%20and%20analitical/Python.png" width="40" height="40" alt="Python"/>
+  <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Programing%20and%20analitical/ssms-3.png" width="40" height="40" alt="SQL Server"/>
+  <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Programing%20and%20analitical/icons8-power-bi-2021-512.png" width="40" height="40" alt="Power BI"/>
+  <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Programing%20and%20analitical/icons8-excel-512.png" width="40" height="40" alt="Excel"/>
+  <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Programing%20and%20analitical/Minitab.png" width="40" height="40" alt="Minitab"/>
+  <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Programing%20and%20analitical/IBM%20SPSS%20Statistics.png" width="40" height="40" alt="SPSS"/>
 </p>
 
 <h3 align="left">🛠️ Development Tools</h3>
