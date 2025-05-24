@@ -39,7 +39,7 @@
 <h3 align="left">🎨 Creative Tools</h3>
 <p align="left">
   <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" width="40" height="40" alt="Photoshop"/>
-  <img src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" width="40" height="40" alt="After Effects"/>
+  <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Creative/icons8-adobe-after-effects-512.png" width="40" height="40" alt="After Effects"/>
   <img src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" width="40" height="40" alt="Premiere Pro"/>
   <img src="https://img.icons8.com/color/48/adobe-indesign--v1.png" width="40" height="40" alt="InDesign"/>
 </p>
