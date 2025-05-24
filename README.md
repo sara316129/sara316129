@@ -33,7 +33,10 @@
 
 <h3 align="left">🛠️ Development Tools</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
+  <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/development%20tool/Visual%20Studio%20Code%20(VS%20Code).png" width="40" height="40" alt="Visual Studio"/>
+  <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/development%20tool/PyCharm.png" width="40" height="40" alt="pycharm"/>
+  <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/development%20tool/Jupyter.png" width="40" height="40" alt="jupyter"/>
+  <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/development%20tool/IntelliJ%20IDEA.png" width="40" height="40" alt="intelig"/>
 </p>
 
 <h3 align="left">🎨 Creative Tools</h3>
