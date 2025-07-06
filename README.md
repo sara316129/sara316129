@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saranga Nuwan Hathurusinghe</h1>
+<h1 align="center">Hi 👋, I'm Saranga </h1>
 <h3 align="center">Undergraduate | Data Analyst | Machine Learning | Data Visualization</h3>
 
 <p align="center">
