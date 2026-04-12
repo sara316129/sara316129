@@ -10,7 +10,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sara316129&label=Profile%20Views&color=00e5ff&style=flat-square)](https://github.com/sara316129)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00e5ff?style=flat-square&logo=googlechrome&logoColor=black)]([https://sara316129.github.io](https://sara316129.github.io/MyPortfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00e5ff?style=flat-square&logo=googlechrome&logoColor=black)]([https://sara316129.github.io/MyPortfolio/])
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saranga-nuwan-hathurusinghe-0b599229a)
 &nbsp;&nbsp;
@@ -22,16 +22,16 @@
 
 ## About Me
 
-I'm an undergraduate at the **University of Colombo, Faculty of Science**, pursuing a BSc (Hons) in Computational Mathematics. I enjoy working with data — finding patterns, building models, and turning numbers into something that actually makes sense.
+I'm an undergraduate at the **University of Colombo, Faculty of Science**, pursuing a BSc (Hons) in Computational Mathematics. I enjoy working with data - finding patterns, building models, and turning numbers into something that actually makes sense.
 
-Currently diving into **Cryptography** as part of my studies. Outside the classroom, I'm involved with **FOS Media** — I handled Graphic Design in 2023/24 and took on the Treasurer role in 2024/25, while also doing video editing and motion graphics along the way. On the side, I also follow forex and crypto markets and enjoy the analytical side of trading.
+Currently diving into **Cryptography** as part of my studies. Outside the classroom, I'm involved with **FOS Media** - I handled Graphic Design in 2023/24 and took on the Treasurer role in 2024/25, while also doing video editing and motion graphics along the way. On the side, I also follow forex and crypto markets and enjoy the analytical side of trading.
 
 
 ## Projects
 
 <div align="center">
 
-[![View Portfolio](https://img.shields.io/badge/View%20All%20Projects-My%20Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)]([https://sara316129.github.io](https://sara316129.github.io/MyPortfolio/))
+[![View Portfolio](https://img.shields.io/badge/View%20All%20Projects-My%20Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)]([https://sara316129.github.io/MyPortfolio/])
 
 </div>
 
