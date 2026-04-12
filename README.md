@@ -10,7 +10,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sara316129&label=Profile%20Views&color=00e5ff&style=flat-square)](https://github.com/sara316129)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00e5ff?style=flat-square&logo=googlechrome&logoColor=black)](https://sara316129.github.io/MyPortfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00e5ff?style=flat-square&logo=googlechrome&logoColor=black)](https://sara316129.github.io/MyPortfolio/)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saranga-nuwan-hathurusinghe-0b599229a)
 &nbsp;&nbsp;
@@ -43,7 +43,7 @@ saranga = {
 
 <div align="center">
 
-[![View Portfolio](https://img.shields.io/badge/View%20All%20Projects-My%20Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sara316129.github.io/MyPortfolio)
+**[→ View all projects on my Portfolio](https://sara316129.github.io/MyPortfolio/)**
 
 </div>
 
@@ -80,6 +80,41 @@ saranga = {
   <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Creative/icons8-adobe-indesign-512.png?raw=true" width="40" height="40" alt="InDesign" title="InDesign"/>
 </p>
 
+---
+
+## Certifications
+
+<details>
+<summary><b>View 11 Certificates</b></summary>
+<br/>
+
+| Certificate | Issuer | Year |
+|-------------|--------|------|
+| Specialization of Machine Learning | DeepLearning.AI | 2025 |
+| Advanced Learning Algorithms | DeepLearning.AI | 2025 |
+| Supervised Machine Learning: Regression & Classification | DeepLearning.AI | 2025 |
+| Ask Questions to Make Data-Driven Decisions | Google | 2025 |
+| Foundations: Data, Data, Everywhere | Google | 2025 |
+| Fundamentals of Digital Marketing | Google | 2024 |
+| Career Essentials in System Administration | Microsoft & LinkedIn | 2024 |
+| Getting Started with R for Data Science | LinkedIn Learning | 2024 |
+| Master Microsoft Excel | LinkedIn Learning | 2024 |
+| Essential Skills in Adobe Premiere Pro | Adobe / LinkedIn | 2024 |
+| Advance Your Video Editing Skills | LinkedIn Learning | 2024 |
+
+</details>
+
+---
+
+## Education
+
+| Level | Institution | Period |
+|-------|-------------|--------|
+| Undergraduate | University of Colombo — BSc (Hons) Computational Mathematics | 2023 – 2027 |
+| Advanced Level | Sri Rahula College Katugastota — Physical Science / Maths | 2018 – 2021 |
+| Ordinary Level | Sri Rahula College Katugastota | 2007 – 2018 |
+
+---
 
 ## GitHub Stats
 
