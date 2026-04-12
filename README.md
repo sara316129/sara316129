@@ -69,19 +69,21 @@ Currently diving into **Cryptography** as part of my studies. Outside the classr
   <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Creative/icons8-adobe-indesign-512.png?raw=true" width="40" height="40" alt="InDesign" title="InDesign"/>
 </p>
 
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sara316129&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00e5ff&icon_color=00e5ff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sara316129&theme=tokyonight&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sara316129&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00e5ff&icon_color=00e5ff&bg_color=0d1117" width="48%" />
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=sara316129&theme=tokyonight&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&background=0d1117" width="48%" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara316129&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara316129&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&bg_color=0d1117&langs_count=8" width="50%" />
 
 </div>
 
