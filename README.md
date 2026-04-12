@@ -22,9 +22,9 @@
 
 ## About Me
 
-I'm an undergraduate at the **University of Colombo, Faculty of Science**, pursuing a BSc (Hons) in Computational Mathematics. I enjoy working with data — finding patterns, building models, and turning numbers into something that actually makes sense.
+I'm an undergraduate at the **University of Colombo, Faculty of Science**, pursuing a BSc (Hons) in Computational Mathematics. I enjoy working with data - finding patterns, building models, and turning numbers into something that actually makes sense.
 
-Currently diving into **Cryptography** as part of my studies. Outside the classroom, I'm involved with **FOS Media** — I handled Graphic Design in 2023/24 and took on the Treasurer role in 2024/25, while also doing video editing and motion graphics along the way. On the side, I also follow forex and crypto markets and enjoy the analytical side of trading.
+Currently diving into **Cryptography** as part of my studies. Outside the classroom, I'm involved with **FOS Media** - I handled Graphic Design in 2023/24 and took on the Treasurer role in 2024/25, while also doing video editing and motion graphics along the way. On the side, I also follow forex and crypto markets and enjoy the analytical side of trading.
 
 ---
 
