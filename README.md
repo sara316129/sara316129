@@ -10,7 +10,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sara316129&label=Profile%20Views&color=00e5ff&style=flat-square)](https://github.com/sara316129)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00e5ff?style=flat-square&logo=googlechrome&logoColor=black)](https://sara316129.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00e5ff?style=flat-square&logo=googlechrome&logoColor=black)]([https://sara316129.github.io](https://sara316129.github.io/MyPortfolio/))
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saranga-nuwan-hathurusinghe-0b599229a)
 &nbsp;&nbsp;
@@ -31,7 +31,7 @@ Currently diving into **Cryptography** as part of my studies. Outside the classr
 
 <div align="center">
 
-[![View Portfolio](https://img.shields.io/badge/View%20All%20Projects-My%20Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sara316129.github.io)
+[![View Portfolio](https://img.shields.io/badge/View%20All%20Projects-My%20Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)]([https://sara316129.github.io](https://sara316129.github.io/MyPortfolio/))
 
 </div>
 
