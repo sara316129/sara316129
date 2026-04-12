@@ -26,17 +26,6 @@ I'm an undergraduate at the **University of Colombo, Faculty of Science**, pursu
 
 Currently diving into **Cryptography** as part of my studies. Outside the classroom, I'm involved with **FOS Media** — I handled Graphic Design in 2023/24 and took on the Treasurer role in 2024/25, while also doing video editing and motion graphics along the way. On the side, I also follow forex and crypto markets and enjoy the analytical side of trading.
 
-```python
-saranga = {
-    "university"  : "University of Colombo — Faculty of Science",
-    "degree"      : "BSc (Hons) Computational Mathematics",
-    "interests"   : ["Data Analysis", "Machine Learning", "Cryptography", "Data Visualization"],
-    "creative"    : ["Motion Graphics", "Video Editing", "Graphic Design"],
-    "currently"   : "Exploring Random Number Theory & Monte Carlo Methods",
-    "open_to"     : "Collaborations, internships, and data projects"
-}
-```
-
 ---
 
 ## Projects
@@ -80,41 +69,6 @@ saranga = {
   <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Creative/icons8-adobe-indesign-512.png?raw=true" width="40" height="40" alt="InDesign" title="InDesign"/>
 </p>
 
----
-
-## Certifications
-
-<details>
-<summary><b>View 11 Certificates</b></summary>
-<br/>
-
-| Certificate | Issuer | Year |
-|-------------|--------|------|
-| Specialization of Machine Learning | DeepLearning.AI | 2025 |
-| Advanced Learning Algorithms | DeepLearning.AI | 2025 |
-| Supervised Machine Learning: Regression & Classification | DeepLearning.AI | 2025 |
-| Ask Questions to Make Data-Driven Decisions | Google | 2025 |
-| Foundations: Data, Data, Everywhere | Google | 2025 |
-| Fundamentals of Digital Marketing | Google | 2024 |
-| Career Essentials in System Administration | Microsoft & LinkedIn | 2024 |
-| Getting Started with R for Data Science | LinkedIn Learning | 2024 |
-| Master Microsoft Excel | LinkedIn Learning | 2024 |
-| Essential Skills in Adobe Premiere Pro | Adobe / LinkedIn | 2024 |
-| Advance Your Video Editing Skills | LinkedIn Learning | 2024 |
-
-</details>
-
----
-
-## Education
-
-| Level | Institution | Period |
-|-------|-------------|--------|
-| Undergraduate | University of Colombo — BSc (Hons) Computational Mathematics | 2023 – 2027 |
-| Advanced Level | Sri Rahula College Katugastota — Physical Science / Maths | 2018 – 2021 |
-| Ordinary Level | Sri Rahula College Katugastota | 2007 – 2018 |
-
----
 
 ## GitHub Stats
 
