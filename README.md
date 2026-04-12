@@ -10,7 +10,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sara316129&label=Profile%20Views&color=00e5ff&style=flat-square)](https://github.com/sara316129)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00e5ff?style=flat-square&logo=googlechrome&logoColor=black)]([https://sara316129.github.io/MyPortfolio/])
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00e5ff?style=flat-square&logo=googlechrome&logoColor=black)](https://sara316129.github.io/MyPortfolio)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saranga-nuwan-hathurusinghe-0b599229a)
 &nbsp;&nbsp;
@@ -22,16 +22,28 @@
 
 ## About Me
 
-I'm an undergraduate at the **University of Colombo, Faculty of Science**, pursuing a BSc (Hons) in Computational Mathematics. I enjoy working with data - finding patterns, building models, and turning numbers into something that actually makes sense.
+I'm an undergraduate at the **University of Colombo, Faculty of Science**, pursuing a BSc (Hons) in Computational Mathematics. I enjoy working with data — finding patterns, building models, and turning numbers into something that actually makes sense.
 
-Currently diving into **Cryptography** as part of my studies. Outside the classroom, I'm involved with **FOS Media** - I handled Graphic Design in 2023/24 and took on the Treasurer role in 2024/25, while also doing video editing and motion graphics along the way. On the side, I also follow forex and crypto markets and enjoy the analytical side of trading.
+Currently diving into **Cryptography** as part of my studies. Outside the classroom, I'm involved with **FOS Media** — I handled Graphic Design in 2023/24 and took on the Treasurer role in 2024/25, while also doing video editing and motion graphics along the way. On the side, I also follow forex and crypto markets and enjoy the analytical side of trading.
 
+```python
+saranga = {
+    "university"  : "University of Colombo — Faculty of Science",
+    "degree"      : "BSc (Hons) Computational Mathematics",
+    "interests"   : ["Data Analysis", "Machine Learning", "Cryptography", "Data Visualization"],
+    "creative"    : ["Motion Graphics", "Video Editing", "Graphic Design"],
+    "currently"   : "Exploring Random Number Theory & Monte Carlo Methods",
+    "open_to"     : "Collaborations, internships, and data projects"
+}
+```
+
+---
 
 ## Projects
 
 <div align="center">
 
-[![View Portfolio](https://img.shields.io/badge/View%20All%20Projects-My%20Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)]([https://sara316129.github.io/MyPortfolio/])
+[![View Portfolio](https://img.shields.io/badge/View%20All%20Projects-My%20Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sara316129.github.io/MyPortfolio)
 
 </div>
 
@@ -67,6 +79,7 @@ Currently diving into **Cryptography** as part of my studies. Outside the classr
   <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Creative/icons8-adobe-premiere-pro-512.png?raw=true" width="40" height="40" alt="Premiere Pro" title="Premiere Pro"/>
   <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Creative/icons8-adobe-indesign-512.png?raw=true" width="40" height="40" alt="InDesign" title="InDesign"/>
 </p>
+
 
 ## GitHub Stats
 
