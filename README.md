@@ -22,17 +22,18 @@
 
 ## About Me
 
-I'm an undergraduate at the **University of Colombo, Faculty of Science**, pursuing a BSc (Hons) in Computational Mathematics. I enjoy working with data - finding patterns, building models, and turning numbers into something that actually makes sense.
+I'm an undergraduate at the **University of Colombo, Faculty of Science**, pursuing a BSc (Hons) in Computational Mathematics. I enjoy working with data — finding patterns, building models, and turning numbers into something that actually makes sense.
 
-Currently diving into **Cryptography** as part of my studies. Outside the classroom, I'm involved with **FOS Media** - I handled Graphic Design in 2023/24 and took on the Treasurer role in 2024/25, while also doing video editing and motion graphics along the way. On the side, I also follow forex and crypto markets and enjoy the analytical side of trading.
+Currently diving into **Cryptography** as part of my studies. Outside the classroom, I'm involved with **FOS Media** — I handled Graphic Design in 2023/24 and took on the Treasurer role in 2024/25, while also doing video editing and motion graphics along the way. On the side, I also follow forex and crypto markets and enjoy the analytical side of trading.
+
 
 ## Projects
 
-| # | Project | Tech | Description |
-|---|---------|------|-------------|
-| 01 | **[Superstore Sales & Customer Insights Dashboard](https://sara316129.github.io/p1/project1.html)** | SQL · Power BI · DAX | Multi-page interactive dashboard — 9,994 rows cleaned via SSMS, KPIs, YoY growth, regional breakdown |
-| 02 | **[3D Center of Mass via Monte Carlo](https://sara316129.github.io/p2/project2.html)** | Python · NumPy · Trimesh · Tkinter | Group project — custom MRG generator, Ray Casting vs Voxelization, O(N) complexity at 300K points |
-| 03 | **[Motion Graphics Reel](https://sara316129.github.io/p3/project3.html)** | After Effects · Saber Plugin | Nike product ads, neon circuit animations, countdown timer, food menu ad, cinematic sequence |
+<div align="center">
+
+[![View Portfolio](https://img.shields.io/badge/View%20All%20Projects-My%20Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sara316129.github.io)
+
+</div>
 
 ---
 
@@ -66,42 +67,6 @@ Currently diving into **Cryptography** as part of my studies. Outside the classr
   <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Creative/icons8-adobe-premiere-pro-512.png?raw=true" width="40" height="40" alt="Premiere Pro" title="Premiere Pro"/>
   <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Creative/icons8-adobe-indesign-512.png?raw=true" width="40" height="40" alt="InDesign" title="InDesign"/>
 </p>
-
----
-
-## Certifications
-
-<details>
-<summary><b>View 11 Certificates</b></summary>
-<br/>
-
-| Certificate | Issuer | Year |
-|-------------|--------|------|
-| Specialization of Machine Learning | DeepLearning.AI | 2025 |
-| Advanced Learning Algorithms | DeepLearning.AI | 2025 |
-| Supervised Machine Learning: Regression & Classification | DeepLearning.AI | 2025 |
-| Ask Questions to Make Data-Driven Decisions | Google | 2025 |
-| Foundations: Data, Data, Everywhere | Google | 2025 |
-| Fundamentals of Digital Marketing | Google | 2024 |
-| Career Essentials in System Administration | Microsoft & LinkedIn | 2024 |
-| Getting Started with R for Data Science | LinkedIn Learning | 2024 |
-| Master Microsoft Excel | LinkedIn Learning | 2024 |
-| Essential Skills in Adobe Premiere Pro | Adobe / LinkedIn | 2024 |
-| Advance Your Video Editing Skills | LinkedIn Learning | 2024 |
-
-</details>
-
----
-
-## Education
-
-| Level | Institution | Period |
-|-------|-------------|--------|
-| Undergraduate | University of Colombo — BSc (Hons) Computational Mathematics | 2023 – 2027 |
-| Advanced Level | Sri Rahula College Katugastota — Physical Science / Maths | 2018 – 2021 |
-| Ordinary Level | Sri Rahula College Katugastota | 2007 – 2018 |
-
----
 
 ## GitHub Stats
 
