@@ -25,7 +25,7 @@
 I'm an undergraduate at the **University of Colombo, Faculty of Science**, pursuing a BSc (Hons) in Computational Mathematics. I enjoy working with data - finding patterns, building models, and turning numbers into something that actually makes sense.
 
 Currently diving into **Cryptography** as part of my studies. Outside the classroom, I'm involved with **FOS Media** - I handled Graphic Design in 2023/24 and took on the Treasurer role in 2024/25, while also doing video editing and motion graphics along the way.
----
+
 
 ## Projects
 
@@ -67,6 +67,8 @@ Currently diving into **Cryptography** as part of my studies. Outside the classr
   <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Creative/icons8-adobe-premiere-pro-512.png?raw=true" width="40" height="40" alt="Premiere Pro" title="Premiere Pro"/>
   <img src="https://github.com/sara316129/icons/blob/main/Software%20icons/Creative/icons8-adobe-indesign-512.png?raw=true" width="40" height="40" alt="InDesign" title="InDesign"/>
 </p>
+
+
 
 ## GitHub Stats
 
