@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=200&section=header&text=Saranga%20Nuwan%20Hathurusinghe&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Machine%20Learning%20%7C%20Cryptography&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=200&section=header&text=Saranga%20Nuwan%20Hathurusinghe&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Machine%20Learning%20%7C%20Quantum%20Computing&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
